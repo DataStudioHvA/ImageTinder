@@ -1,5 +1,5 @@
 # ImageTinder
-Een tool om snel beeldmateriaal (jpg bestanden) in mappen in te delen 
+Een tool om snel beeldmateriaal (jpg bestanden) in mappen te categoriseren 
 
 ### Instructies: 
 
