@@ -1,7 +1,7 @@
 # ImageTinder
 Een tool om snel beeldmateriaal (jpg bestanden) in mappen in te delen 
 
-Instructies: 
+### Instructies: 
 
 Plaats de .jpg bestanden die je wil classificeren in de map 'images' en maak daar een aantal lege mappen aan corresponderend met jouw categorieen. Zorg dat de namen van de mappen uit slechts 1 karakter bestaan (dit kan een getal of een lekker zijn). 
 LET OP: in deze GitHub respository staan geen voorbeeldmappen want git staat geen lege mappen toe, dus deze moet je eerst zelf maken. Er staan wel enkele voorbeeld foto's in. 
