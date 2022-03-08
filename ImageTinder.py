@@ -6,7 +6,9 @@ import ctypes
 image_list=[]
 filename_list = []
 
-os.chdir('C:/Users/pc/Desktop/ImageTinder/images/')
+abspath = os.path.abspath(__file__)
+dname = os.path.dirname(abspath)
+os.chdir(dname + '/Images')
 
 for filename in glob.glob("*.jpg"):
     img = cv2.imread(filename)
